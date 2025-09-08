@@ -2,227 +2,283 @@
   {
     "id": 1,
     "title": "God of War III Remastered",
-    "image": "https://3.bp.blogspot.com/-EzB8wyzrREg/WoVTHa8XV4I/AAAAAAAAKvc/_o7s4TSAvvQM72qoZwIS77q8DI4MyiCIwCLcBGAs/s1600/20.jpg"
+    "image": "https://3.bp.blogspot.com/-EzB8wyzrREg/WoVTHa8XV4I/AAAAAAAAKvc/_o7s4TSAvvQM72qoZwIS77q8DI4MyiCIwCLcBGAs/s1600/20.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 2,
     "title": "God of War (2018)",
-    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 3,
     "title": "God of War: Ragnarok",
-    "image": "https://1.bp.blogspot.com/-zFl8BVScuhU/Y2xHbSowYCI/AAAAAAAAK3s/5cbtPfoUO9gAoL1u0f8veYL1GIpAUE-RQCNcBGAsYHQ/s0/1.jpg"
+    "image": "https://1.bp.blogspot.com/-zFl8BVScuhU/Y2xHbSowYCI/AAAAAAAAK3s/5cbtPfoUO9gAoL1u0f8veYL1GIpAUE-RQCNcBGAsYHQ/s0/1.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 4,
     "title": "The Last of Us Part I",
-    "image": "https://3.bp.blogspot.com/-x-6UC6CVOy8/WoVl_gUfiuI/AAAAAAAAK1Q/Emqv6Mu4jXwLbDc8B11EOabRpCvda3buQCLcBGAs/s1600/41.jpg"
+    "image": "https://3.bp.blogspot.com/-x-6UC6CVOy8/WoVl_gUfiuI/AAAAAAAAK1Q/Emqv6Mu4jXwLbDc8B11EOabRpCvda3buQCLcBGAs/s1600/41.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 5,
     "title": "The Last of Us Part II",
-    "image": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg"
+    "image": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 6,
     "title": "Ghost of Tsushima",
-    "image": "https://1.bp.blogspot.com/-3cmPn_gQhbg/YbrDSE17w0I/AAAAAAAAMFM/3OL8pVFiNkcxeF25PEcTt4oqpLgBj6kgACNcBGAsYHQ/h300/7.jpg"
+    "image": "https://1.bp.blogspot.com/-3cmPn_gQhbg/YbrDSE17w0I/AAAAAAAAMFM/3OL8pVFiNkcxeF25PEcTt4oqpLgBj6kgACNcBGAsYHQ/h300/7.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 7,
     "title": "Devil May Cry 5",
-    "image": "https://2.bp.blogspot.com/-uSOwAk_fliY/X1B_jDjCcYI/AAAAAAAAGwQ/ae7NIgw8qfA-82yMBVoWpOKk_IA4ouswgCLcBGAsYHQ/s1600/0.jpg"
+    "image": "https://2.bp.blogspot.com/-uSOwAk_fliY/X1B_jDjCcYI/AAAAAAAAGwQ/ae7NIgw8qfA-82yMBVoWpOKk_IA4ouswgCLcBGAsYHQ/s1600/0.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 8,
     "title": "Marvel's Spider-Man: Miles Morales",
-    "image": "https://1.bp.blogspot.com/-3TS51lYon3Y/ZkRDB3753yI/AAAAAAAAABQ/YGf-nFlOJ8MNJhmuq9xpcI-kFgoXuOOaACNcBGAsYHQ/s0/25.jpg"
+    "image": "https://1.bp.blogspot.com/-3TS51lYon3Y/ZkRDB3753yI/AAAAAAAAABQ/YGf-nFlOJ8MNJhmuq9xpcI-kFgoXuOOaACNcBGAsYHQ/s0/25.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 9,
     "title": "Uncharted: Legacy of Thieves Collection",
-    "image": "https://3.bp.blogspot.com/-VepWMqqHs_Q/WoVoat4-giI/AAAAAAAAK2Q/NBhT-NdTqqIWJpI5_V6I0KBINLOD1llZgCLcBGAs/s1600/45.jpg"
+    "image": "https://3.bp.blogspot.com/-VepWMqqHs_Q/WoVoat4-giI/AAAAAAAAK2Q/NBhT-NdTqqIWJpI5_V6I0KBINLOD1llZgCLcBGAs/s1600/45.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 10,
     "title": "Grand Theft Auto V",
-    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "platform": "PlayStation 4"
   },
   {
     "id": 11,
     "title": "Naruto Shippuden: Ultimate Ninja Storm 4",
-    "image": "https://1.bp.blogspot.com/-DyuSOf1C8Q0/WpjQwnd6NUI/AAAAAAAABOA/vXFn2-Q0a0g9oT3BOGxPzhjurmcD7z-YgCLcBGAs/s1600/21.jpg"
+    "image": "https://1.bp.blogspot.com/-DyuSOf1C8Q0/WpjQwnd6NUI/AAAAAAAABOA/vXFn2-Q0a0g9oT3BOGxPzhjurmcD7z-YgCLcBGAs/s1600/21.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 12,
     "title": "Naruto Storm Connection Ultimate Edition",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/09/x1.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/09/x1.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 13,
     "title": "Street Fighter V: Champion Edition",
-    "image": "https://1.bp.blogspot.com/-EmY3rHRtaDY/YAJE0UVLdLI/AAAAAAAAbMg/AxAgNU65FWoCxO9kilQCm7FqiUV3252CACLcBGAsYHQ/s0/1.jpg"
+    "image": "https://1.bp.blogspot.com/-EmY3rHRtaDY/YAJE0UVLdLI/AAAAAAAAbMg/AxAgNU65FWoCxO9kilQCm7FqiUV3252CACLcBGAsYHQ/s0/1.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 14,
     "title": "Street Fighter 6",
-    "image": "https://1.bp.blogspot.com/-CZddmNwsFcI/ZIPCo8ZYiCI/AAAAAAAACGw/yFtVTw5VWF0afMoCopzr0yfH8xW6OGfDQCNcBGAsYHQ/s0/1.jpg"
+    "image": "https://1.bp.blogspot.com/-CZddmNwsFcI/ZIPCo8ZYiCI/AAAAAAAACGw/yFtVTw5VWF0afMoCopzr0yfH8xW6OGfDQCNcBGAsYHQ/s0/1.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 15,
     "title": "The King of Fighters XV",
-    "image": "https://1.bp.blogspot.com/-fOtN6kyjNKQ/Ygp0fSLXl5I/AAAAAAAAIfk/Zgoz9JyJAmwUyA25Q2fFTc2YuG55Eq_qACNcBGAsYHQ/s0/8.jpg"
+    "image": "https://1.bp.blogspot.com/-fOtN6kyjNKQ/Ygp0fSLXl5I/AAAAAAAAIfk/Zgoz9JyJAmwUyA25Q2fFTc2YuG55Eq_qACNcBGAsYHQ/s0/8.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 16,
     "title": "Days Gone",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/24.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/24.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 17,
     "title": "Rise of the Tomb Raider",
-    "image": "https://3.bp.blogspot.com/-yUPVCcD3ENU/WoVnrNFgzzI/AAAAAAAAK14/SZuE0BlsJIA8w1V-OJlwGCBm7k7pTDUwACLcBGAs/s1600/44.jpg"
+    "image": "https://3.bp.blogspot.com/-yUPVCcD3ENU/WoVnrNFgzzI/AAAAAAAAK14/SZuE0BlsJIA8w1V-OJlwGCBm7k7pTDUwACLcBGAs/s1600/44.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 18,
     "title": "Shadow of the Tomb Raider",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/102.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/102.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 19,
     "title": "Resident Evil 2 Remake",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/8.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/8.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 20,
     "title": "Resident Evil 3 Remake",
-    "image": "https://1.bp.blogspot.com/-mLQwHsy9ckM/X9zOMcdcSsI/AAAAAAAAID0/aXBV3PWFFjsex6TuzuzbKRFfwuvwfmiXgCLcBGAsYHQ/s0/2.jpg"
+    "image": "https://1.bp.blogspot.com/-mLQwHsy9ckM/X9zOMcdcSsI/AAAAAAAAID0/aXBV3PWFFjsex6TuzuzbKRFfwuvwfmiXgCLcBGAsYHQ/s0/2.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 21,
     "title": "Resident Evil 4 Remake",
-    "image": "https://1.bp.blogspot.com/-mO89dvXdmhg/ZB0njRKLJkI/AAAAAAAAAxs/WN6TF8M7rck7YCrKnvi8hoC9blu3Jea_QCNcBGAsYHQ/s0/4.jpg"
+    "image": "https://1.bp.blogspot.com/-mO89dvXdmhg/ZB0njRKLJkI/AAAAAAAAAxs/WN6TF8M7rck7YCrKnvi8hoC9blu3Jea_QCNcBGAsYHQ/s0/4.jpg",
+    "platform": "PlayStation 4"
   },
+
   {
     "id": 22,
     "title": "Resident Evil Village",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/10/1-13.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/10/1-13.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 23,
     "title": "Sekiro: Shadows Die Twice",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/89.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/89.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 24,
+
     "title": "FIFA 23",
-    "image": "https://1.bp.blogspot.com/-OOJC26CZqM8/YzeZaImmSyI/AAAAAAAAKs8/tj0Hz_VFIywxQz8S-6EgrDot8gYOYdZgQCNcBGAsYHQ/s0/1.jpg"
+    "image": "https://1.bp.blogspot.com/-OOJC26CZqM8/YzeZaImmSyI/AAAAAAAAKs8/tj0Hz_VFIywxQz8S-6EgrDot8gYOYdZgQCNcBGAsYHQ/s0/1.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 25,
     "title": "EA Sports FC 25",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
+
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 26,
     "title": "Watch Dogs: Legion",
-    "image": "https://1.bp.blogspot.com/-Fx5KO8WFTKY/ZkRC-xF73fI/AAAAAAAAAAg/9hLSm36E6wINY4K3GrbQdkRBYeuyFr-cwCNcBGAsYHQ/s0/15.jpg"
+    "image": "https://1.bp.blogspot.com/-Fx5KO8WFTKY/ZkRC-xF73fI/AAAAAAAAAAg/9hLSm36E6wINY4K3GrbQdkRBYeuyFr-cwCNcBGAsYHQ/s0/15.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 27,
     "title": "Far Cry 3",
-    "image": "https://1.bp.blogspot.com/-WURX8a_LiKs/XyGQR5XjMUI/AAAAAAAAAKM/YZch18FyuvEjvlkBtpn3QCBHaCxtxcp8wCLcBGAsYHQ/s1600/2.jpg"
+    "image": "https://1.bp.blogspot.com/-WURX8a_LiKs/XyGQR5XjMUI/AAAAAAAAAKM/YZch18FyuvEjvlkBtpn3QCBHaCxtxcp8wCLcBGAsYHQ/s1600/2.jpg",
+    "platform": "PlayStation 4"
   },
+
   {
     "id": 28,
     "title": "Final Fantasy VII Remake",
-    "image": "https://1.bp.blogspot.com/-daMAeHFkitM/X96zQpxuzfI/AAAAAAAAIFc/SRVmKEWp8PwYkhb2eLSAA5ZE3-Y7FiWwwCLcBGAsYHQ/s0/7.jpg"
+    "image": "https://1.bp.blogspot.com/-daMAeHFkitM/X96zQpxuzfI/AAAAAAAAIFc/SRVmKEWp8PwYkhb2eLSAA5ZE3-Y7FiWwwCLcBGAsYHQ/s0/7.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 29,
     "title": "Assassin's Creed Valhalla",
-    "image": "https://1.bp.blogspot.com/-NoiczF8V-0s/YtjTFS6u2uI/AAAAAAAAKKo/7RD_SQxkqQkwJ7QfYrEnai5RoZbxTdGBwCNcBGAsYHQ/s0/1.jpg"
+    "image": "https://1.bp.blogspot.com/-NoiczF8V-0s/YtjTFS6u2uI/AAAAAAAAKKo/7RD_SQxkqQkwJ7QfYrEnai5RoZbxTdGBwCNcBGAsYHQ/s0/1.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 30,
+
     "title": "Dragon ball figthers Z",
-    "image": "https://4.bp.blogspot.com/--6A5SAC71sA/X0aFd63LogI/AAAAAAAAGqo/RJdzgLL3kBcEhTeJNtbby6nqQlm7HlnqQCLcBGAsYHQ/s1600/9.jpg"
+    "image": "https://4.bp.blogspot.com/--6A5SAC71sA/X0aFd63LogI/AAAAAAAAGqo/RJdzgLL3kBcEhTeJNtbby6nqQlm7HlnqQCLcBGAsYHQ/s1600/9.jpg",
+    "platform": "PlayStation 4"
   },
 
   {
     "id": 31,
+
     "title": "Call of duty black ops 3",
-    "image": "https://3.bp.blogspot.com/-hGEydETzxcM/WorbkboML4I/AAAAAAAALPU/9LUCGLsQOeICsbNBRAFX6-Egm1Zl-GJugCLcBGAs/s1600/10.jpg"
+    "image": "https://3.bp.blogspot.com/-hGEydETzxcM/WorbkboML4I/AAAAAAAALPU/9LUCGLsQOeICsbNBRAFX6-Egm1Zl-GJugCLcBGAs/s1600/10.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 32,
     "title": "Call of duty Advance War far ",
-    "image": "https://1.bp.blogspot.com/-YL1qP3RQTZM/YksI-2y0EkI/AAAAAAAAJXk/FUL1OIM3N2wL9BilAcabuyep6oSFGxhTACNcBGAsYHQ/s0/1.jpg"
+
+    "image": "https://1.bp.blogspot.com/-YL1qP3RQTZM/YksI-2y0EkI/AAAAAAAAJXk/FUL1OIM3N2wL9BilAcabuyep6oSFGxhTACNcBGAsYHQ/s0/1.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 33,
     "title": "SILK SONG",
-    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-4.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-4.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 34,
     "title": "Bro Force",
-    "image": "https://4.bp.blogspot.com/-4uUamIqGKGk/WxFVxNCa-FI/AAAAAAAALgY/DLsHhKZUqv8sMX2W3zi1B9rrV5ALf7jpwCLcBGAs/s1600/6.jpg"
+    "image": "https://4.bp.blogspot.com/-4uUamIqGKGk/WxFVxNCa-FI/AAAAAAAALgY/DLsHhKZUqv8sMX2W3zi1B9rrV5ALf7jpwCLcBGAs/s1600/6.jpg",
+    "platform": "PlayStation 4"
   },
+
   {
     "id": 35,
     "title": "Brawlhala",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SRBzV2a6snSr3--KSs1WstL3JXEB05PnUA&s"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SRBzV2a6snSr3--KSs1WstL3JXEB05PnUA&s",
+    "platform": "PlayStation 4"
   },
   {
     "id": 36,
     "title": "Call of duty modern warfare 2",
-    "image": "https://1.bp.blogspot.com/-lw-Y5VX-lZ0/X-K77ehubmI/AAAAAAAAanM/AetRDhxkj6Q1iGgvT2nQbx6z3fToXYN7ACLcBGAsYHQ/s0/9.jpg"
+    "image": "https://1.bp.blogspot.com/-lw-Y5VX-lZ0/X-K77ehubmI/AAAAAAAAanM/AetRDhxkj6Q1iGgvT2nQbx6z3fToXYN7ACLcBGAsYHQ/s0/9.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 37,
+
     "title": " Injustice Legend 2",
-    "image": "https://2.bp.blogspot.com/-o6GyET4oNs8/WxK2iAeL5VI/AAAAAAAAL0E/L8ZWsDuE3xYbx6noSDyvwt8G3uIY1SPXACLcBGAs/s1600/11.jpg"
+    "image": "https://2.bp.blogspot.com/-o6GyET4oNs8/WxK2iAeL5VI/AAAAAAAAL0E/L8ZWsDuE3xYbx6noSDyvwt8G3uIY1SPXACLcBGAs/s1600/11.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 38,
     "title": " Mafia 2 Definitive Edition",
-    "image": "https://1.bp.blogspot.com/-BXanNQ8nbo4/ZkRQgDsyM3I/AAAAAAAAAJQ/zTVqsTb6_ysCP9184CqgUsFiIg-spiIagCNcBGAsYHQ/s0/38.jpg"
+
+    "image": "https://1.bp.blogspot.com/-BXanNQ8nbo4/ZkRQgDsyM3I/AAAAAAAAAJQ/zTVqsTb6_ysCP9184CqgUsFiIg-spiIagCNcBGAsYHQ/s0/38.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 39,
     "title": " Mafia 3 Definitive Edition",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/136.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/136.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 40,
     "title": "Doom 2016",
-    "image": "https://2.bp.blogspot.com/-E2e3fe1y1oc/WoVPMTEdEvI/AAAAAAAAKto/QlH0EDfuyeUwTl_iva73my3KNQXQlhi-wCLcBGAs/s1600/13.jpg"
+    "image": "https://2.bp.blogspot.com/-E2e3fe1y1oc/WoVPMTEdEvI/AAAAAAAAKto/QlH0EDfuyeUwTl_iva73my3KNQXQlhi-wCLcBGAs/s1600/13.jpg",
+    "platform": "PlayStation 4"
   },
+
   {
     "id": 41,
     "title": "Marvel vs Capcom 3",
-    "image": "https://2.bp.blogspot.com/-WBM9BscFBUs/Wt8JBAuEx7I/AAAAAAAAH1A/EjXmQFZIpmgpLVVXCFZGdX6lptruAwgywCLcBGAs/s1600/5.jpg"
+    "image": "https://2.bp.blogspot.com/-WBM9BscFBUs/Wt8JBAuEx7I/AAAAAAAAH1A/EjXmQFZIpmgpLVVXCFZGdX6lptruAwgywCLcBGAs/s1600/5.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 42,
     "title": "Call of Duty Black ops 6",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 43,
     "title": "Red dead Redemption 1",
-    "image": "https://1.bp.blogspot.com/-eJGx-MyyHAw/ZTM2sCteyPI/AAAAAAAADOc/sOY5T5iTTZcDIFxVhbWw0LM9UoPyHJt5wCNcBGAsYHQ/s0/3.jpg"
+    "image": "https://1.bp.blogspot.com/-eJGx-MyyHAw/ZTM2sCteyPI/AAAAAAAADOc/sOY5T5iTTZcDIFxVhbWw0LM9UoPyHJt5wCNcBGAsYHQ/s0/3.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 44,
     "title": "Red dead Redemption 2",
-    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg",
+    "platform": "PlayStation 4"
   },
   {
     "id": 45,
     "title": "NBA 2K26",
-    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-6.jpg"
+    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-6.jpg",
+    "platform": "PlayStation 4"
   }
 ]

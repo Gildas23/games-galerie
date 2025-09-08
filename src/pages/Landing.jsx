@@ -1,8 +1,8 @@
 import { useState } from "react";
 import Grid from "../components/Grid";
 import Search from "../components/Search";
-import data from "../data/data.json";
 import Wish from "../components/Wish";
+import data from "../data/data.json";
 
 function ShopppingIcon() {
   return (
@@ -12,7 +12,7 @@ function ShopppingIcon() {
       viewBox="0 0 24 24"
       strokeWidth={1.5}
       stroke="white"
-      className="size-8 border "
+      className="size-8 "
     >
       <path
         strokeLinecap="round"
@@ -27,6 +27,7 @@ function Landing() {
   const [search, setSearch] = useState([]);
   const [selected, setSelected] = useState([]);
   const [isSearching, setIsSearching] = useState(false);
+
   const appTitle = "Jeux disponible maintenant";
 
   return (
