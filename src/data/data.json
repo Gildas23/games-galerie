@@ -280,5 +280,77 @@
     "title": "NBA 2K26",
     "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-6.jpg",
     "platform": "PlayStation 4"
+  },
+  {
+    "id": 46,
+    "title": "Sparking Zero",
+    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-1.jpg",
+    "platform": "PlayStation 5"
+  },
+  {
+    "id": 47,
+    "title": "Resident Evil 4 ",
+    "image": "https://dlpsgame.com/wp-content/uploads/2025/03/2-1.jpg",
+    "platform": "PlayStation 5"
+  },
+  {
+    "id": 48,
+    "title": "Ghost of Tsushima",
+    "image": "https://1.bp.blogspot.com/-_I4GePR9vmk/ZZqeV1_BKsI/AAAAAAAAEBQ/ROKpRpfHaoUlJ0HYjgc0zo8LzaApK2OCwCNcBGAsYHQ/s0/6.jpg",
+    "platform": "PlayStation 5"
+  },
+  {
+    "id": 49,
+    "title": "Street Fighter 6",
+    "image": "https://dlpsgame.com/wp-content/uploads/2025/03/2-9.jpg",
+    "platform": "PlayStation 5"
+  },
+  {
+    "id": 50,
+    "title": "FIFA 21",
+    "image": "https://1.bp.blogspot.com/-0ibE6IfZVzs/X_mN4D6XCnI/AAAAAAAAbGo/B_7BBf47gUg1zUc4mXxKTO1oZlqaCMg0wCLcBGAsYHQ/s0/1.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 51,
+    "title": "NBA 2K18",
+    "image": "https://3.bp.blogspot.com/-43sxXIooRYA/Wb8h0E74oDI/AAAAAAAAeXg/XEfYaxNc6GoE-FR1wGXfmUfzsgID5uMdQCLcBGAs/s1600/p1.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 52,
+    "title": "Call of Duty Black ops 2",
+    "image": "https://2.bp.blogspot.com/-JQQ8GtCAGvs/Vllj-NExOnI/AAAAAAAAAMQ/b6MkOvz8gYU/s1600/Untitled.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 53,
+    "title": "Metal gear solid V The phantom pain",
+    "image": "https://4.bp.blogspot.com/-fmahBOkNjgU/Vlkf9bdXqnI/AAAAAAAAAGU/mXc4eDTEOsY/s1600/Untitled.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 54,
+    "title": "Call of Duty Black ops 3",
+    "image": "https://2.bp.blogspot.com/-JQQ8GtCAGvs/Vllj-NExOnI/AAAAAAAAAMQ/b6MkOvz8gYU/s1600/Untitled.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 55,
+    "title": "GTA San Andrea",
+    "image": "https://1.bp.blogspot.com/-UxULqXWd_xg/VlrOM6CxzWI/AAAAAAAAVjc/qF9nriy_CHg/s1600/Grand-Theft-Auto-San-Andreas-XBOX360-Region-free-220x300.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 56,
+    "title": "Grand Theft Auto V",
+    "image": "https://2.bp.blogspot.com/-j0MuN-mbicg/Vo9naJ7aGhI/AAAAAAAACR4/HIlVFrxV458/s1600/a4hoz7cp.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 57,
+    "title": "Naruto storm revolution",
+    "image": "https://1.bp.blogspot.com/-DRNpeWg8Wvo/VoU3t56zQgI/AAAAAAAABnI/YkaAz4wxqmY/s1600/hfHNi2L.jpg",
+    "platform": "Xbox 360"
   }
 ]

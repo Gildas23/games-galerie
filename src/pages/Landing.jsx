@@ -37,14 +37,22 @@ function Landing() {
         <h1 className="text-3xl sm:text-4xl font-extrabold text-indigo-600 text-center mb-4 tracking-tight">
           {appTitle}
         </h1>
-        <div className="flex">
+        <div className="flex gap-2">
           <div />
           <Search
             games={data}
             setSearch={setSearch}
             setIsSearching={setIsSearching}
           />
-          <ShopppingIcon />
+          <div className="relative">
+            {selected?.length > 0 && (
+              <span className="bg-red-500 rounded-full absolute -right-2 -top-2 text-white text-xs px-2 py-1">
+                {selected.length}
+              </span>
+            )}
+
+            <ShopppingIcon />
+          </div>
         </div>
       </div>
       {/* Responsive layout */}

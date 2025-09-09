@@ -14,12 +14,14 @@ function Search({ games, setSearch, setIsSearching }) {
     const trimmed = query.trim().toLowerCase();
 
     const filtered = games.filter((game) => {
-      const matchesQuery = game.title.toLowerCase().includes(trimmed);
       const matchesCategory = game.platform === cat;
-      return matchesQuery && matchesCategory;
+      const matchesQuery = game.title.toLowerCase().includes(trimmed);
+      return matchesCategory && (trimmed === "" || matchesQuery);
     });
 
-    setSearch(trimmed === "" ? [] : filtered);
+    console.log(filtered);
+
+    setSearch(filtered);
     setIsSearching(trimmed !== "");
   }, [query, cat, games, setSearch, setIsSearching]);
 

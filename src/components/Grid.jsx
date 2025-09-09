@@ -1,5 +1,6 @@
 function Grid({ games, search, selected, setSelected, isSearching }) {
-  const list = isSearching ? search : games;
+  // const list = isSearching ? search : games;
+  const list = search;
 
   const toggleSelect = (game) => {
     const isSelected = selected.some((g) => g.id === game.id);
@@ -13,7 +14,7 @@ function Grid({ games, search, selected, setSelected, isSearching }) {
   return (
     <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 p-4">
       {list.length === 0 && (
-        <p className="text-slate-400 italic text-center  text-sm w-full mx-auto">
+        <p className="text-slate-400 italic text-center  text-sm w-full col-span-full">
           I dont have this game yet.
         </p>
       )}
