@@ -56,8 +56,8 @@ function Landing() {
         </div>
       </div>
       {/* Responsive layout */}
-      <section className="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-6 h-full items-start">
-        <div className="lg:h-[calc(100vh-160px)] lg:overflow-y-auto pr-2">
+      <section className="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-6 h-full items-start mt-4">
+        <div className="lg:h-[calc(100vh-160px)] lg:overflow-y-auto pt-2">
           <Grid
             games={data}
             search={search}
@@ -66,7 +66,7 @@ function Landing() {
             isSearching={isSearching}
           />
         </div>
-        <div className="lg:sticky lg:top-[96px] self-start">
+        <div className="lg:sticky lg:block lg:top-[96px] self-start hidden">
           <Wish selected={selected} setSelected={setSelected} />
         </div>
       </section>

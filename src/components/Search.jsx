@@ -19,7 +19,7 @@ function Search({ games, setSearch, setIsSearching }) {
       return matchesCategory && (trimmed === "" || matchesQuery);
     });
 
-    console.log(filtered);
+    // console.log(filtered);
 
     setSearch(filtered);
     setIsSearching(trimmed !== "");

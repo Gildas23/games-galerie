@@ -282,6 +282,12 @@
     "platform": "PlayStation 4"
   },
   {
+    "id": 48,
+    "title": "Demon Slayer 2",
+    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-8.jpg",
+    "platform": "PlayStation 4"
+  },
+  {
     "id": 46,
     "title": "Sparking Zero",
     "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-1.jpg",
@@ -320,7 +326,7 @@
   {
     "id": 52,
     "title": "Call of Duty Black ops 2",
-    "image": "https://2.bp.blogspot.com/-JQQ8GtCAGvs/Vllj-NExOnI/AAAAAAAAAMQ/b6MkOvz8gYU/s1600/Untitled.jpg",
+    "image": "https://3.bp.blogspot.com/-Il_k_P8ORXI/VmPlyOkiDWI/AAAAAAAAEg4/iyhy6N00uh8/s1600/Untitled.jpg",
     "platform": "Xbox 360"
   },
   {
@@ -351,6 +357,72 @@
     "id": 57,
     "title": "Naruto storm revolution",
     "image": "https://1.bp.blogspot.com/-DRNpeWg8Wvo/VoU3t56zQgI/AAAAAAAABnI/YkaAz4wxqmY/s1600/hfHNi2L.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 58,
+    "title": "Blur TM",
+    "image": "https://dlxbgame.com/wp-content/uploads/2024/08/16.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 59,
+    "title": "Sonic Rider",
+    "image": "https://2.bp.blogspot.com/-CLgskIlwuoo/V57PQbSc0AI/AAAAAAAAFxQ/r3oUrD-CwQwxfxUOf-R-vEwqvJ4p5IgBgCLcB/s1600/Sonic-Free-Riders-Box-Art.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 60,
+    "title": "Tomb Rider",
+    "image": "https://2.bp.blogspot.com/-EqT6Nxp3sDQ/VlnEKMSO5hI/AAAAAAAAAT8/nUP7a_lFweM/s1600/Untitled.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 61,
+    "title": "Far Cry 3",
+    "image": "https://2.bp.blogspot.com/-ANITsaozj9A/VpccoLme8aI/AAAAAAAAE8E/Y2SjFSGWRU8/s1600/9spi2nae.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 62,
+    "title": "Call of Duty Black ops 1",
+    "image": "https://4.bp.blogspot.com/-x_YijTSsjyk/Vn0pzLpJU6I/AAAAAAAABQ0/kh-ejxhza94/s1600/9Ro8wNu.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 63,
+    "title": "Call of Duty Black modern warfare 2",
+    "image": "https://4.bp.blogspot.com/-4nqjKeOYMGc/VllmgNaxudI/AAAAAAAAAM4/4tP4ZzO6-Wk/s1600/Modern-Warfare-2_standard_X360_RATED.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 64,
+    "title": "Street Fighter 4 Ultra",
+    "image": "https://dlxbgame.com/wp-content/uploads/2024/08/222.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 65,
+    "title": "Dark Sider 1",
+    "image": "https://2.bp.blogspot.com/-F6LxXUG9F-U/VoKejYHOD6I/AAAAAAAABjk/do-Jd-N4dB0/s1600/D9xD0Sr.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 66,
+    "title": "Dark Sider 2",
+    "image": "https://3.bp.blogspot.com/-cVgkSoCepZA/VoOlRjQ5SkI/AAAAAAAAAoY/rQYQ2Rt9xSw/s1600/ShOZYGh.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 67,
+    "title": "Final Fantasy 7",
+    "image": "https://dlxbgame.com/wp-content/uploads/2024/08/60.jpg",
+    "platform": "Xbox 360"
+  },
+  {
+    "id": 67,
+    "title": "Dead or Alive 5",
+    "image": "https://lh3.googleusercontent.com/-ysEIR9HJFgk/Y09-N6L1pdI/AAAAAAAADeQ/H4iiMqm9Otk0qC5xip3UrmUXmGKaVzC5QCNcBGAsYHQ/s0/12.jpg",
     "platform": "Xbox 360"
   }
 ]
