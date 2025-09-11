@@ -30,11 +30,11 @@ function Grid({ games, search, selected, setSelected, isSearching }) {
           </p>
         )}
 
-        {list.map((game) => {
+        {list.map((game, i) => {
           const isSelected = selected.some((g) => g.id === game.id);
           return (
             <div
-              key={game.id}
+              key={`${game.id}_${i}`}
               onClick={() => toggleSelect(game)}
               className={`group relative rounded-xl overflow-hidden border transition-all duration-300 hover:scale-[1.03] hover:shadow-xl ${
                 isSelected ? "border-indigo-500 shadow-lg" : "border-slate-600"
