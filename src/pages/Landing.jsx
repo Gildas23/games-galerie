@@ -33,7 +33,7 @@ function Landing() {
   return (
     <main className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 min-h-screen grid grid-rows-[auto_1fr] gap-4">
       {/* Sticky Search + Title */}
-      <div className="sticky top-0 z-20 border-b border-slate-600 py-4  bg-slate-900 ">
+      <div className="sticky top-0 z-20 border-b border-slate-600  bg-slate-900 ">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-indigo-600 text-center mb-4 tracking-tight">
           {appTitle}
         </h1>

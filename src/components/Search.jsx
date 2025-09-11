@@ -1,10 +1,15 @@
 import { useEffect, useState } from "react";
 
 const labels = ["PlayStation 4", "PlayStation 5", "Xbox 360"];
+const jailbreakableVersions = {
+  "PlayStation 4": "12.02",
+  "PlayStation 5": "7.71",
+};
 
 function Search({ games, setSearch, setIsSearching }) {
   const [query, setQuery] = useState("");
   const [cat, setCat] = useState(labels[0]);
+  const jailbreakable = jailbreakableVersions[cat];
 
   const handleCategoryclick = (currentCategory) => {
     setCat(currentCategory);
@@ -47,6 +52,11 @@ function Search({ games, setSearch, setIsSearching }) {
           </StyledLabel>
         ))}
       </div>
+      <p className="text-slate-200 capitalize mx-auto">
+        {jailbreakable
+          ? `pucable jusqu'a la version ${jailbreakable}`
+          : "pucable toutes version confondues"}
+      </p>
     </div>
   );
 }
