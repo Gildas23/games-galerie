@@ -66,9 +66,9 @@ function Landing() {
             isSearching={isSearching}
           />
         </div>
-        <div className="lg:sticky lg:block lg:top-[96px] self-start hidden">
+        {/* <div className="lg:sticky lg:block lg:top-[96px] self-start hidden">
           <Wish selected={selected} setSelected={setSelected} />
-        </div>
+        </div> */}
       </section>
     </main>
   );
