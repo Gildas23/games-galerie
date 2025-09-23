@@ -1,5 +1,17 @@
 [
   {
+    "id": 100,
+    "title": "FC 26",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48dfS1tXuIpwWHBPd_BVSLy9skQe9F1KkVw&s",
+    "platform": "PlayStation 4"
+  },
+  {
+    "id": 45,
+    "title": "NBA 2K26",
+    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-6.jpg",
+    "platform": "PlayStation 4"
+  },
+  {
     "id": 1,
     "title": "God of War III Remastered",
     "image": "https://3.bp.blogspot.com/-EzB8wyzrREg/WoVTHa8XV4I/AAAAAAAAKvc/_o7s4TSAvvQM72qoZwIS77q8DI4MyiCIwCLcBGAs/s1600/20.jpg",
@@ -273,12 +285,6 @@
     "id": 44,
     "title": "Red dead Redemption 2",
     "image": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg",
-    "platform": "PlayStation 4"
-  },
-  {
-    "id": 45,
-    "title": "NBA 2K26",
-    "image": "https://dlpsgame.com/wp-content/uploads/2025/09/1-6.jpg",
     "platform": "PlayStation 4"
   },
   {
