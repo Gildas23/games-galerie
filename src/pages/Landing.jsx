@@ -37,6 +37,9 @@ function Landing() {
         <h1 className="text-3xl sm:text-4xl font-extrabold text-indigo-600 text-center mb-4 tracking-tight">
           {appTitle}
         </h1>
+        <h6 className="text-indigo-200 text-center text-sm font-bold">
+          Yaoundé
+        </h6>
         <div className="flex gap-2">
           <div />
           <Search
@@ -66,9 +69,9 @@ function Landing() {
             isSearching={isSearching}
           />
         </div>
-        {/* <div className="lg:sticky lg:block lg:top-[96px] self-start hidden">
+        <div className="lg:sticky lg:block lg:top-[96px] self-start hidden">
           <Wish selected={selected} setSelected={setSelected} />
-        </div> */}
+        </div>
       </section>
     </main>
   );
